@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de Caixas</title>
+    <style>
+        h1 {/*Box-level*/
+            background-color: lightgray;
+            height: 300px;
+            width: 300px;
+            /*
+            Nova propriedade box-sizing onde podemos definir que as dimensões height e width não são medidas apenas a partir do conteúdo (content-box) e sim pela borda (border-box).
+
+            Podemos simplificar com shorts as tag (border, padding, margin, outline). Com -> :
+            Sempre nesta ordem
+            *border*
+                 border-width: 10px;
+                 border-style: solid;
+                 border-color: darkslategray;
+            sempre na mesma order width, style, color 
+
+            *padding*
+                padding-top: 10px;(cima)
+                padding-right: 10px;(direita)
+                padding-bottom: 10px;(baixo)
+                padding-left: 10px;(esquerda)
+                (ou se as px forem iguais so pode colocar so um valor
+                e quando colocar 2 valor fica tipo 10 em cima e em baixo 20 ao lados )
+
+            *margin*
+                margin-top: 20px;
+                margin-right: 20px;
+                margin-bottom: 40px;
+                margin-left: 20px;
+            as mesma regras do padding ou colocar (auto) para centralizar a caixa para direita  e esquerda
+            
+            *outline*   
+                outline-width: 5px;
+                outline-style: dashed;
+                outline-color: salmon;
+             sempre na mesma order width, style, color    
+            */
+
+            border: 10px solid darkslategray;
+
+            padding: 10px;
+
+            margin: 20px auto 40px auto;
+
+            outline: 5px dashed salmon;
+        }
+
+        a { /*Inline-level*/
+          border: 10px solid red;
+
+          padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Parágrafos também são de box-level, mas os <a href="#">links são exemplo de cixas inline-level</a>. Vamos ver como tudo isso funciona.</p>
+</body>
+</html>

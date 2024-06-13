@@ -1,0 +1,38 @@
+@charset "UTP-8";
+
+body {
+    background-color: aqua;
+}
+h1 {
+    color: blue;
+}
+ 
+
+.Fim {
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: normal;
+    font-style: normal;
+    font-weight: lighter;
+    text-align: justify;
+}
+
+#hover{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+div > p {
+    display: none;
+}
+
+div:hover > p {
+    display: block;
+    color: white;
+    background-color: red;
+    width: 300px;
+}
+
+div:hover {
+    color: red;
+}

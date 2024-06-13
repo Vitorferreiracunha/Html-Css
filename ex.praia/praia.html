@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entrar | Centro de código sL</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <div class="split-screen">
+        <div class="left">
+            <section class="copy">
+                <h1>Olá, amigos</h1>
+            </section>
+        </div>
+        <div class="right">
+            <form action="#">
+                <section class="copy">
+                    <h2>Inscrever-se</h2>
+                    <div class="login-container">
+                        Eu tenho uma conta? <a href="#"><strong>Conecte-se</strong></a>
+                    </div>
+                </section><br><br>
+                <div class="input-container name">
+                    <label for="fname">Nome completo</label>
+                    <input type="text" name="fname" id="fname">
+                </div>
+                <div class="input-container email">
+                    <label for="email">Email</label>
+                    <input type="email" name="email" id="email">
+                </div>
+                <div class="input-container password">
+                    <label for="Password">Senha</label>
+                    <input type="password" name="password" id="password" 
+                    placeholder="Must be at least 6 characters">
+                    <i class="for fa-eye-slash"></i>
+                </div>
+                <div class="input-container cta">
+                    <label class="checkbox-container">
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                        inscreva-se para receber atualizações por e-mail.
+                    </label>
+                </div>
+                <button class="signup-btn" type="submit">Conecte-se</button>
+            </form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

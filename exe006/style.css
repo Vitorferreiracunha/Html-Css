@@ -1,0 +1,11 @@
+@charset "UTP-8";
+
+section {
+    display: flex;
+    justify-content: en;
+    background-color: black;
+    color: aliceblue;
+}
+
+
+

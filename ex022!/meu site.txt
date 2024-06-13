@@ -1,0 +1,76 @@
+O Parque Nacional da Serra da Capivara, no Piauí, é um tesouro da história e da natureza brasileira. Reconhecido pela UNESCO como Patrimônio Mundial, o parque abriga sítios arqueológicos com mais de 30 mil anos de idade, repletos de pinturas rupestres que contam a história da vida e da cultura dos primeiros habitantes da América.
+A região é um paraíso da biodiversidade, com uma variedade impressionante de fauna e flora, incluindo espécies raras e ameaçadas de extinção. Além da riqueza natural, a Serra da Capivara guarda a memória das culturas indígenas que a habitaram por milênios, com tradições e costumes que ainda influenciam a região.
+Para os visitantes, o Parque oferece uma experiência única, com trilhas que cruzam paisagens desérticas e cachoeiras, museus que contam a história da região e a chance de admirar a beleza natural e a importância histórica da Serra da Capivara. É um lugar para se conectar com o passado, apreciar a natureza e descobrir um dos mais importantes patrimônios culturais do mundo.
+ 
+A Serra da Capivara é muito mais do que um parque nacional. É um palco de uma história milenar, um santuário da biodiversidade e um centro cultural vibrante. Vamos explorar alguns aspectos que tornam essa região tão especial:
+
+A História Esculpida na Pedra:
+Arte Rupestre: As pinturas rupestres da Serra da Capivara são verdadeiras janelas para o passado, retratando a vida, os costumes e as crenças dos primeiros habitantes da América. São mais de 300 sítios arqueológicos com milhares de pinturas, datadas de 10.000 a 50.000 anos atrás.
+
+Descobertas Arqueológicas: As escavações na Serra da Capivara revelaram um acervo riquíssimo de ferramentas, cerâmica, ossadas e outros artefatos, que fornecem informações valiosas sobre a evolução da humanidade na América.
+Importância para a Ciência: A Serra da Capivara é um laboratório a céu aberto para arqueólogos, antropólogos e historiadores, que estudam a evolução humana e as primeiras culturas americanas.
+
+Um Berço da Biodiversidade:
+Fauna Rica: A Serra da Capivara abriga uma grande variedade de animais, como onças-pintadas, jaguatiricas, araras-azuis, veados-catingueiros, capivaras e outros mamíferos, aves e répteis.
+
+Flora Adaptável: A vegetação da Serra da Capivara é típica do bioma Caatinga, com plantas adaptadas ao clima semiárido, como cactos, árvores de pequeno porte e arbustos espinhosos.
+Ameaças e Conservação: A fauna e flora da Serra da Capivara enfrentam ameaças como desmatamento, caça ilegal e a introdução de espécies exóticas. O Parque Nacional desempenha um papel fundamental na proteção da biodiversidade da região.
+
+Cultura Viva:
+Povos Indígenas: A região abriga comunidades indígenas que preservam tradições milenares, como a arte, a música, a dança e a medicina tradicional.
+
+Artesanato Local: A Serra da Capivara é conhecida pela produção de artesanato tradicional, como cerâmica, cestaria, tecelagem e joias.
+
+Festivais e Eventos: A cultura local se manifesta em festivais e eventos, como o Festival da Arte Rupestre, que celebra a história e a cultura da região.
+A Serra da Capivara é um lugar mágico que nos convida a viajar no tempo, a contemplar a beleza da natureza e a aprender com a história e a cultura dos povos que a habitaram. É um destino que oferece uma experiência única e inesquecível para os visitantes.
+
+Curiosidades da Serra da Capivara em Pontos:
+🖼️ Símbolos das pinturas rupestres: ainda um mistério.
+🏛️ Caverna do Boqueirão da Pedra Furada: vestígios de 40.000 anos de ocupação humana!
+🛕 "Cidade Perdida" da Serra: lenda que intriga e alimenta a curiosidade.
+🔥 "Fogo da Pedra Furada": fogueiras de 27.000 anos atrás!
+🐦 Arara-azul-de-lear: ave endêmica da região!
+🏜️ Deserto no Nordeste: paisagens inusitadas e beleza singular.
+👣 Trilhas e cachoeiras: aventuras e paisagens espetaculares.
+🎭 Cultura viva: tradições indígenas, artesanato e festivais.
+🌎 Patrimônio Mundial da UNESCO: reconhecimento da importância histórica e cultural.
+✨ Mistério e beleza: uma região única e inesquecível.
+
+Cabeçalho: Logo com o título do site em destaque, em uma fonte elegante e em cor marrom-avermelhada (representando as rochas da Serra), fundo em um tom de verde claro (representando a natureza).
+Menu: Links para as seções: "História", "Natureza", "Cultura", "O que Fazer", "Onde Ficar", "Como Chegar", "Dicas", "Contato", em um menu horizontal com fundo branco e letras pretas.
+Imagem de destaque: Uma foto panorâmica da Serra da Capivara, com o sol nascendo sobre as rochas e o vale verdejante ao fundo.
+Introdução: Texto convidativo, com frases como: "A Serra da Capivara te espera para uma jornada inesquecível! Descubra um dos mais importantes sítios arqueológicos do mundo, imerso em uma natureza exuberante."
+Chamada para Ação: "Planeje sua viagem agora mesmo e explore a Serra da Capivara!" com um botão azul em destaque.
+Imagens: Fotos de alta qualidade, com foco na beleza natural da Serra, nas pinturas rupestres, nos sítios arqueológicos, na fauna, flora e nas atividades turísticas.
+
+Home
+Sobre
+Blog
+Projetos
+Contato
+
+Fonte Principal (para títulos e textos principais):
+Roboto Slab (Google Fonts): Uma fonte serifada, com traços grossos e um estilo clássico, que confere um ar de seriedade e tradição ao site, combinando com o tema histórico da Serra.
+Playfair Display (Google Fonts): Uma fonte serifada elegante e sofisticada, com traços finos e um toque de modernidade, ideal para destacar títulos e dar um ar mais refinado ao site.
+Lora (Google Fonts): Uma fonte serifada com um estilo mais casual, mas elegante, que transmite uma sensação de aconchego e proximidade. Ideal para textos longos e para criar um ambiente mais convidativo.
+Fonte Secundária (para textos menores, como menus e legendas):
+Open Sans (Google Fonts): Uma fonte sans-serif clean e moderna, que facilita a leitura em textos menores e cria um contraste suave com a fonte principal.
+Lato (Google Fonts): Uma fonte sans-serif com um estilo mais robusto, que confere um toque moderno e dinâmico ao site.
+Poppins (Google Fonts): Uma fonte sans-serif com um estilo mais geométrico e minimalista, que proporciona uma boa legibilidade e um visual clean.
+
+:root {
+  --terracota: #A52A2A; /* Marrom-avermelhado */
+  --verde-claro: #C0E8C0; /* Verde claro */
+  --azul-claro: #ADD8E6; /* Azul claro */
+  --amarelo-claro: #FFFFE0; /* Amarelo claro */
+  --branco: #FFFFFF; /* Branco */
+  --preto: #000000; /* Preto */
+  --vermelho: #FF0000; /* Vermelho */
+  --laranja: #FFA500; /* Laranja */
+  --verde-escuro: #228B22; /* Verde escuro */
+  --azul-escuro: #000080; /* Azul escuro */
+}
+
+A Arte da Serra
+
+Copyright: Nome do site, data, informações de contato e links para políticas de privacidade e termos de uso
